@@ -1,0 +1,4 @@
+# Power BI temporary files
+~$*.pbix
+*.tmp
+*.lock
